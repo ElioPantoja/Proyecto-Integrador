@@ -1,5 +1,8 @@
 # GrupoIIProyectoIntegrador
 # GRUPO 2 #
+ 
+***Copia hecha del repositorio https://github.com/rf300545/GrupoIIProyectoIntegrador ***
+
 
 ##Tematica
 El sitio a diseñar esta enfocado a la venta de suplementos deportivos y 
